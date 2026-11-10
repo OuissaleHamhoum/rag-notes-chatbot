@@ -1,0 +1,14 @@
+langchain>=0.3
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+langchain-nvidia-ai-endpoints>=0.3
+faiss-cpu
+fastapi
+uvicorn
+langserve[all]
+gradio>=4.40
+pypdf
+python-dotenv
+# optional offline embeddings (set EMBED_BACKEND=fastembed):
+# fastembed

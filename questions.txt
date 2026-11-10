@@ -1,0 +1,3 @@
+What is retrieval-augmented generation?
+Why do we split documents into chunks?
+What is the difference between parametric and non-parametric memory?
